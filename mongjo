@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+* {
+		margin: 0;
+		padding: 0;
+	}
+	ul {
+		list-style-type:none;
+		text-align: center;
+
+		font-family: '나눔고딕' ;
+	}
+
+	li{
+	display:inline;
+	text-align: center;
+	color: #aaaaaa;
+	margin: 5px;
+}
+	#menu{
+		width: 1200px;
+		padding: 10px;
+		height: 15px;
+		margin:20px 230px;
+		border:solid 0px #aaaaaa;
+
+
+	}
+
+
+	#bn { 
+		padding: 10px;
+
+	}
+
+#stroke
+{
+	padding-top: 20px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+}
+
+#stroketwo
+{
+	padding-top: 50px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+}
+
+
+img
+{
+	border: 2px solid Green;
+}
+
+
+span {
+	font-weight: bold;
+	color: green;
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: center;
+
+	font-family: '조선일보명조';
+	}
+
+	p {
+	text-align: center;
+	font-family: '조선일보명조' ;
+	font-size: 18px;
+}
+
+	H4 {
+	color: Green;
+	font-size:20px;
+
+	font-family: '조선일보명조';
+
+	text-align: center;}
+
+		H3 {
+	color: Green;
+	text-align: center;}
+
+table, tr, th, td {
+	border: solid 1px black;
+	border-collapse: collapse;
+	padding: 15px;
+    margin: auto;
+
+
+
+</style>
+
+</head>
+<body> 
+
+
+<H3 id='bn'> <li class='item'><a href="1851096 신영린 홈페이지.html">
+ <img src=https://postfiles.pstatic.net/MjAxODEyMDNfNjYg/MDAxNTQzODE5MjIxODQ4.UAwwG2lNsS8v8YCvhstAiecZqw-4aTSYxmsP_UyjJy8g.TygZWhePJAqGUEh-PSlN3h3IfJ9GxZPFqjSL5Da0zHEg.PNG.blus_ejs/%EB%8B%A4%EC%9C%A1%EC%9D%98%EC%A6%90%EA%B1%B0%EC%9B%80.png?type=w580> </a>  </H3>
+
+
+<ul id='menu'>
+<li class='item'>  <img src=https://postfiles.pstatic.net/MjAxODEyMDNfMTI5/MDAxNTQzODE3OTk5NjI0.VZF8oJvU1SWOAgdIrJcjG2adg2SoBI92rkj11Ou-aj4g.Nzcs8aSPKGFJ4I3gl9BDyQGcTMKeIqwEy8ddgf0C2IMg.PNG.blus_ejs/bn1.png?type=w580> </li>
+
+<li class='item'><img src=https://postfiles.pstatic.net/MjAxODEyMDNfMjAy/MDAxNTQzODE3OTk5NjI1.dnbTcb5MM0_tetqKIRSBvkrCbddxVz1X4s-fTpwqoesg.MANj1FPG1_OYpws3aMJYF0pxjHFLOgz5Qxq2QMiXHYog.PNG.blus_ejs/bn2.png?type=w580></li>
+
+<li class='item'><img src=https://postfiles.pstatic.net/MjAxODEyMDNfMjAy/MDAxNTQzODE3OTk5NjI1.dnbTcb5MM0_tetqKIRSBvkrCbddxVz1X4s-fTpwqoesg.MANj1FPG1_OYpws3aMJYF0pxjHFLOgz5Qxq2QMiXHYog.PNG.blus_ejs/bn2.png?type=w580></li>
+
+<li class='item'><img src=https://postfiles.pstatic.net/MjAxODEyMDNfMjkw/MDAxNTQzODE3OTk5NjI1.2-3MThvTB1FTLqCCp8yXPirjlb82yGHh2CBCrf35TOIg.C0R2cSZovq111dcH28BgmclsiFjYl1tqj2-WdUY2gyQg.PNG.blus_ejs/bn4.png?type=w580></li>
+
+<li class='item'><img src=https://postfiles.pstatic.net/MjAxODEyMDNfMTI2/MDAxNTQzODE3OTk5NjI1.MArdMIL09uJ-u_WY2BIRzqgh4pQNbLVsuiMqXGULLy4g.JZhXh2dJEm_xKNfe9okFQtfbGodBeZhvhBWw1i7V0Bcg.PNG.blus_ejs/bn5.png?type=w580></li>
+</ul>
+
+
+<ul id='stroke'> <img src='https://blogfiles.pstatic.net/MjAxODEyMDNfMTA0/MDAxNTQzODIxNzAxMjEy.Az8Usl4Ua-hINDUFSR79RM7ngdWy2ijjW2H9y3zY1Swg.-g8YLNugxcV8CAc5Y1CMpql5xPmLUbpFK0N9VDTcJGgg.PNG.blus_ejs/%ED%85%8C%EB%91%90%EB%A6%AC.png'> </ul>
+
+
+
+<table> 
+	  <table border="0">
+		<tr> 
+	
+			<h4> <다육의 대표적 분류> </h4>
+			<br>
+
+			</tr>
+			<tr> 
+			<th> 선인장과 </th> <th> 돌나물과 </th> <th> 쇠비름과 </th>
+		</tr>
+	</table>
+
+
+<h4> <선인장과> </h4>
+
+<img src=https://postfiles.pstatic.net/MjAxODEyMTBfMjcz/MDAxNTQ0NDI4MzAxMDI0.US2Q3enqEO7QE9i9PZPZRNDekFBEi9v0_YV2LYPOSlcg.AKMLDwNqqrFNFiUshgdZSgqiw6m50gaAKYwYIGKSTDMg.PNG.blus_ejs/1891357662_gNhZW64y_fec1dff58071d0214635403bfa748003b7cf9938.png?type=w580 width="400">
+
+<h4> <돌나물과> </h4>
+
+<img src=https://postfiles.pstatic.net/MjAxODEyMTBfMTc3/MDAxNTQ0NDI4MzI5MzA4.rwqoWn_ySpECKnoOarVAJDe_LBzZ-aBD-jLsJjQrUtMg.c2ftvJTywZzYIOKADwyXyyEUfpd_AL0iFkrmUejJvrAg.JPEG.blus_ejs/2734F141534B67F510.jpg?type=w580 width="400">
+
+
+<h4> <쇠비름과> </h4>
+
+<img src=https://postfiles.pstatic.net/MjAxODEyMTBfNDcg/MDAxNTQ0NDI4MzYyNTQ1.wkCmP-or42-tViAbnIepMt4sL-gP7duikKXdg_5CybMg.342vLo7_BxBB1yQz9BLFq7Ge9PAA-z-PsaR7iAyoRJMg.JPEG.blus_ejs/2329264952A426AC14.jpg?type=w580 width="400">
+
+
+
+<ul> 
